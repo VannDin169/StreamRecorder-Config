@@ -5,11 +5,5 @@
   "message": "You Are Disable From Admin, Please Contact!",
   "banned_pcs": [],
   "seen_pcs": [
-    {
-      "hwid": "EXAMPLE-HWID-123",
-      "pc_name": "DESKTOP-SAMPLE",
-      "is_active": true,
-      "last_seen": "3/20/2026, 5:45:00 PM"
-    }
-  ]
+}
 }
