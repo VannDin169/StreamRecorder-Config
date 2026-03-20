@@ -2,7 +2,14 @@
   "is_active": true,
   "latest_version": "11.0.0",
   "download_url": "https://github.com/VannDin169/StreamRecorder-Config/releases/download/V11.0.0/StreamRecorderProV11.0.0_Setup.exe",
-  "message": "You Are Disable From Admin, Please Contact",
+  "message": "You Are Disable From Admin, Please Contact!",
+  "banned_pcs": [],
   "seen_pcs": [
     {
-      
+      "hwid": "EXAMPLE-HWID-123",
+      "pc_name": "DESKTOP-SAMPLE",
+      "is_active": true,
+      "last_seen": "3/20/2026, 5:45:00 PM"
+    }
+  ]
+}
