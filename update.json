@@ -22,6 +22,12 @@
       "pc_name": "VILI-CMRD",
       "is_active": true,
       "last_seen": "31/3/2026, 9:21:45 AM"
+    },
+    {
+      "hwid": "4C4C4544-0042-4C10-804C-B6C04F365A32",
+      "pc_name": "PC-46",
+      "is_active": true,
+      "last_seen": "31/3/2026, 9:26:46 AM"
     }
   ]
 }
