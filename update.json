@@ -12,12 +12,6 @@
       "last_seen": "31/3/2026, 8:45:07 AM"
     },
     {
-      "hwid": "4C4C4544-0032-5310-8051-C7C04F393253",
-      "pc_name": "VILI-CMRD",
-      "is_active": true,
-      "last_seen": "31/3/2026, 9:21:45 AM"
-    },
-    {
       "hwid": "4C4C4544-0042-4C10-804C-B6C04F365A32",
       "pc_name": "PC-46",
       "is_active": true,
@@ -29,11 +23,5 @@
       "is_active": true,
       "last_seen": "31/3/2026, 10:06:17 AM"
     },
-    {
-      "hwid": "4C4C4544-0042-4210-8031-B4C04F545232",
-      "pc_name": "DESKTOP-HS43F02",
-      "is_active": true,
-      "last_seen": "31/3/2026, 10:43:32 AM"
-    }
   ]
 }
