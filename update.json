@@ -28,6 +28,12 @@
       "pc_name": "PC-47",
       "is_active": true,
       "last_seen": "31/3/2026, 10:06:17 AM"
+    },
+    {
+      "hwid": "4C4C4544-0042-4210-8031-B4C04F545232",
+      "pc_name": "DESKTOP-HS43F02",
+      "is_active": true,
+      "last_seen": "31/3/2026, 10:43:32 AM"
     }
   ]
 }
