@@ -1,5 +1,5 @@
+#true=Ativate-false=Disabal
 {
-  # True=Ativate-false=Disabal
   "is_active": true,
   "latest_version": "1.1.0",
   "download_url": "https://github.com/VannDin169/StreamRecorder-Config/releases/download/V1.0.0/StreamRecorderProV1.0.0_Setup.exe",
@@ -27,7 +27,7 @@
     {
       "hwid": "4C4C4544-004C-5A10-8037-B3C04F433253",
       "pc_name": "DESKTOP-07HCIF6",
-      "is_active": true,
+      "is_active": false,
       "last_seen": "02/07/2026, 15:00:59 PM"
     }
   ]
